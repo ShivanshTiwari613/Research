@@ -1,0 +1,759 @@
+Introduction:
+Here is a detailed narrative summary of the key aspects of air pollution and its health impacts, synthesized from the provided sources:
+
+Air Pollution: A Global Health Crisis
+
+Air pollution represents one of the most significant environmental health threats facing the global population today. According to the World Health Organization (WHO), an astounding 99% of people worldwide breathe air that exceeds WHO guideline limits for pollutants, with particularly severe exposure levels in low- and middle-income countries. The health burden is staggering - ambient (outdoor) air pollution alone causes an estimated 4.2 million premature deaths annually, while household air pollution from cooking with polluting fuels claims an additional 3.2 million lives each year.
+
+Types and Sources of Air Pollution
+
+Air pollution exists in two main forms: ambient (outdoor) and household (indoor) pollution. Ambient air pollution primarily stems from the combustion of fossil fuels across various sectors including transportation, industry, power generation, and waste burning. The major pollutants include:
+
+- Particulate matter (PM), which consists of both coarse (PM10) and fine (PM2.5) particles composed of various chemical compounds
+- Nitrogen dioxide (NO2) from fuel combustion processes
+- Sulfur dioxide (SO2) primarily from fossil fuel burning
+- Ground-level ozone formed through chemical reactions in sunlight
+
+Household air pollution predominantly results from the use of solid fuels (wood, crop waste, charcoal, coal, dung) and kerosene in open fires and inefficient stoves for cooking, heating, and lighting. Approximately 2.1 billion people still rely on these polluting cooking methods, with a stark urban-rural divide in access to clean alternatives.
+
+Health Impacts and Biological Mechanisms
+
+The health effects of air pollution are wide-ranging and severe. Particulate matter, especially the smaller PM2.5 particles, can penetrate deep into the lungs and enter the bloodstream, affecting multiple organ systems. This exposure increases risks of:
+
+- Cardiovascular diseases (heart disease and stroke)
+- Respiratory diseases (COPD, asthma, and acute lower respiratory infections)
+- Lung cancer
+- Reduced birth weight and other adverse pregnancy outcomes
+- Neurodevelopmental issues in children
+
+The biological mechanisms through which air pollution causes harm are complex and multifaceted, involving oxidative stress, inflammation, and direct cellular damage. The cardiovascular effects are particularly well-documented, with pollution exposure leading to impaired vascular function, increased blood pressure, altered cardiac rhythm, and enhanced blood clotting.
+
+Vulnerable Populations and Global Inequality
+
+The burden of air pollution falls disproportionately on certain populations:
+
+- Residents of low- and middle-income countries face the highest exposure levels
+- Women and children spending more time indoors in households using polluting fuels
+- Young children, with 442,000 under age 5 dying annually from air pollution exposure
+- Those with pre-existing health conditions
+- The elderly
+
+Prevention and Policy Response
+
+Addressing air pollution requires coordinated action across multiple sectors. The WHO has established updated Air Quality Guidelines (2021) recommending much stricter limits on pollutant concentrations. Key strategies include:
+
+- Transitioning to clean cooking technologies and fuels
+- Improving energy efficiency in homes and industries
+- Developing sustainable transport systems
+- Implementing stricter emissions standards
+- Expanding access to clean energy
+- Better waste management practices
+
+While individual actions can help reduce exposure, the scale of the air pollution crisis demands systematic policy changes at local, national, and international levels. Additionally, reducing air pollution offers co-benefits for climate change mitigation and sustainable development goals.
+
+This synthesis of the evidence demonstrates that air pollution represents a complex, multifaceted public health challenge that requires urgent, coordinated action to protect human health and promote environmental sustainability.
+
+================================================================================
+
+Literature Review:
+Here is a detailed narrative summary of the key findings about household air pollution and its health impacts, integrating information from the provided sources:
+
+Air Pollution: A Global Health Crisis
+
+Household and ambient air pollution represent one of the most significant environmental health threats globally, with staggering impacts on human health and mortality. According to current WHO data, approximately 2.1 billion people still rely on polluting fuels and technologies for cooking, primarily in low- and middle-income countries. This exposure to household air pollution causes an estimated 3.2 million premature deaths annually.
+
+Sources and Exposure Patterns
+
+Household air pollution stems primarily from the use of solid fuels (wood, crop waste, charcoal, coal, dung) and kerosene in inefficient stoves and open fires. In poorly ventilated dwellings, indoor smoke can reach levels of fine particles up to 100 times higher than acceptable limits. Exposure is particularly high among women and children, who spend the most time near cooking areas. A stark urban-rural divide exists - while only 14% of urban populations rely on polluting fuels, nearly half (49%) of rural populations still depend on them.
+
+Health Impacts
+
+The health effects of household air pollution are severe and wide-ranging. Particulate matter and other pollutants inflame airways and lungs, impair immune response, and reduce blood oxygen-carrying capacity. Key health impacts include:
+
+- Respiratory infections, particularly devastating for children under 5
+- Cardiovascular diseases
+- Stroke and heart disease
+- Cancer (especially lung cancer)
+- Low birth weight and pregnancy complications
+- Cataracts and other eye conditions
+
+The cardiovascular effects are particularly concerning. Research has shown that air pollution exposure can lead to:
+- Impaired vascular function
+- Elevated blood pressure
+- Cardiac rhythm disturbances
+- Blood clotting disorders
+- Increased risk of coronary artery disease and stroke
+
+Vulnerable Populations
+
+The burden of household air pollution falls disproportionately on vulnerable populations:
+
+- Women and children have higher exposure due to time spent cooking
+- Poor households have limited access to clean fuels and technologies
+- Rural communities have less access to clean alternatives
+- People in low- and middle-income countries face the highest exposure levels
+
+Economic and Development Implications
+
+The health burden translates into significant economic and development impacts:
+- Lost productivity from illness and premature death
+- Healthcare costs
+- Reinforcement of poverty cycles
+- Barriers to achieving sustainable development goals
+
+Additionally, household air pollution contributes to ambient (outdoor) air pollution and climate change through emissions of greenhouse gases and black carbon.
+
+Call for Action
+
+Addressing household air pollution requires coordinated action on multiple fronts:
+- Increasing access to clean cooking technologies and fuels
+- Improving ventilation and housing design
+- Implementing supportive policies and financial mechanisms
+- Raising awareness through education campaigns
+- Strengthening healthcare systems in affected areas
+
+Without strong policy intervention, an estimated 1.8 billion people will still lack access to clean household energy by 2030. This issue requires particular attention in sub-Saharan Africa, where population growth has outpaced access to clean cooking solutions.
+
+The evidence clearly demonstrates that household air pollution represents not just an environmental challenge, but a critical public health crisis that demands urgent attention and resources. Success in addressing this issue is essential for achieving both health equity and sustainable development goals globally.
+
+================================================================================
+
+Methodology:
+Here is a detailed narrative summary of the key points about air pollution and its health effects, synthesized from the provided sources:
+
+Air Pollution's Impact on Health: An Overview
+
+Air pollution represents one of the most significant environmental health risks globally, contributing to millions of premature deaths annually and ranking among the top modifiable disease risk factors. The health burden falls disproportionately on vulnerable populations and developing nations, though impacts are seen even in regions with relatively clean air.
+
+Key Components and Sources:
+Air pollution consists of a complex mixture of gaseous and particulate components. The main pollutants of concern include:
+- Particulate matter (PM), categorized by size (PM10, PM2.5, and ultrafine particles)
+- Gaseous pollutants like nitrogen dioxide, sulfur dioxide, carbon monoxide, and ozone
+- Various organic compounds and metals
+
+Particulate matter, especially fine particles (PM2.5), has shown the most consistent associations with adverse health effects. Sources include both natural (dust storms, wildfires) and anthropogenic activities (vehicle emissions, industrial processes, biomass burning).
+
+Cardiovascular and Other Health Effects:
+The cardiovascular system appears particularly vulnerable to air pollution exposure. Key effects include:
+- Increased risk of heart attack, stroke, and heart failure
+- Development and progression of atherosclerosis 
+- Changes in blood pressure and heart rhythm
+- Enhanced blood clotting and inflammation
+- Impaired vascular function
+
+Beyond cardiovascular impacts, air pollution is linked to:
+- Respiratory diseases including asthma and COPD
+- Metabolic disorders like diabetes
+- Adverse pregnancy outcomes
+- Possible neurological effects
+- Cancer risk, particularly lung cancer
+
+Biological Mechanisms:
+Multiple pathways appear to mediate air pollution's health effects:
+- Direct inflammation and oxidative stress in the lungs
+- Systemic inflammation affecting multiple organ systems
+- Autonomic nervous system dysfunction
+- Possible direct effects of ultrafine particles entering circulation
+- Endocrine disruption
+
+These mechanisms often interact and amplify each other, leading to complex health outcomes.
+
+Susceptible Populations:
+Certain groups show increased vulnerability:
+- Children and elderly individuals
+- People with pre-existing cardiovascular or respiratory conditions
+- Pregnant women
+- Those living in areas with high pollution levels
+- Lower socioeconomic status populations
+- Individuals with certain genetic variants
+
+Research Needs and Future Directions:
+Priority areas for research include:
+- Better understanding of biological mechanisms
+- Development of more accurate exposure assessment methods
+- Investigation of interactions between multiple pollutants
+- Evaluation of intervention strategies
+- Study of long-term health effects
+- Assessment of emerging air quality threats like wildfire smoke
+- Development of targeted protection strategies for vulnerable groups
+
+This summary demonstrates the pervasive nature of air pollution's health effects and underscores the critical importance of continued research and policy efforts to reduce exposure and protect public health. The complexity of air pollution's components and health impacts necessitates a multifaceted approach to both research and mitigation strategies.
+
+================================================================================
+
+Results:
+--- Content from https://www.who.int/news-room/fact-sheets/detail/household-air-pollution-and-health ---
+Household air pollution
+Key facts
+Overview
+Worldwide, around 2.1 billion people still cook using solid fuels (such as wood, crop waste, charcoal, coal and dung) and kerosene in open fires and inefficient stoves(1). Most of these people are poor and live in low- and middle-income countries. There is a large discrepancy in access to cleaner cooking alternatives between urban and rural areas: in 2021, only 14% of people in urban areas relied on polluting fuels and technologies, compared with 49% of the global rural population.
+Household air pollution is generated by the use of inefficient and polluting fuels and technologies in and around the home that contains a range of health-damaging pollutants, including small particles that penetrate deep into the lungs and enter the bloodstream. In poorly ventilated dwellings, indoor smoke can have levels of fine particles 100 times higher than acceptable. Exposure is particularly high among women and children, who spend the most time near the domestic hearth. Reliance on polluting fuels and technologies also require significant time for cooking on an inefficient device, and gathering and preparing fuel.
+Guidance
+In light of the widespread use of polluting fuels and stoves for cooking, WHO issued a set of normative guidance,the Guidelines for indoor air quality: household fuel combustion, which offer practical evidence-based guidance on what fuels and technologies used in the home can be considered clean, including recommendations discouraging use of kerosene and recommending against use of unprocessed coal; specifying the performance of fuels and technologies (in the form of emission rate targets) needed to protect health; and emphasizing the importance of addressing all household energy uses, particularly cooking, space heating and lighting to ensure benefits for health and the environment. WHOdefines fuels and technologiesthat are clean for health at the point of use as solar, electricity, biogas, liquefied petroleum gas (LPG), natural gas, alcohol fuels, as well as biomass stoves that meet the emission targets in the WHO Guidelines.
+Without strong policy action, 1.8 billion people are estimated to still lack access to clean fuels and technologies in 2030(1). There is a particularly critical need for action in sub-Saharan Africa, where population growth has outpaced access to clean cooking, and 923 million people lacked access in 2022. Strategies to increase the adoption of clean household energy include policies that provide financial support to purchase cleaner technologies and fuels, improved ventilation or housing design, and communication campaigns to encourage clean energy use.
+Impacts on health
+Each year, 3.2 million people die prematurely from illnesses attributable to the household air pollution caused by the incomplete combustion of solid fuels and kerosene used for cooking (seehousehold air pollution datafor details). Particulate matter and other pollutants in household air pollution inflame the airways and lungs, impair immune response and reduce the oxygen-carrying capacity of the blood.
+Among these 3.2 million deaths from household air pollution exposure:
+Household air pollution accounted for the loss of an estimated 86 million healthy life years in 2019, with the largest burden falling on women living in low- and middle-income countries.
+Almost half of all deaths due to lower respiratory infection among children under 5 years of age are caused by inhaling particulate matter (soot) from household air pollution.
+There is also evidence of links between household air pollution and low birth weight, tuberculosis, cataract, nasopharyngeal and laryngeal cancers.
+Impacts on health equity, development and climate change
+Significant policy changes are needed to rapidly increase the number of people with access to clean fuels and technologies by 2030 to address health inequities, achieve the 2030 Agenda for Sustainable Development, and mitigate climate change.
+WHO response
+WHO provides technical support and capacity building to countries and regions to evaluate and scale-up health-promoting household fuels and technologies. To address household air pollution and its negative impact on health, WHO:
+References
+Related
+News
+Fact sheets
+Facts in pictures
+Feature stories
+Documents
+More
+Accelerating access to electricity in health-care facilitiesSynthesizing evidence and knowledge on air pollutionIdentifying solutions for countries
+
+--- Content from https://www.niehs.nih.gov/health/topics/agents/air-pollution ---
+An official website of the United States government
+The .gov means it’s official.Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+The site is secure.Thehttps://ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+National Institute of Environmental Health Sciences
+NIEHS main menu
+Health & Education
+If you are giving a presentation about an environmental health topic or just looking for general information about environmental health research or the institute, this webpage will help.
+A resource for kids, parents, and teachers to find fun and educational materials related to health, science, and the environment we live in today.
+Research
+Funding Opportunities
+Careers & Training
+NIEHS has a goal to ensure job opportunities and career enhancements programs for both our work force and our community.
+News & Events
+NIEHS sponsors and co-sponsors scientific meetings, conferences, and events throughout the year. These meetings are listed in the NIEHS Events Calendar and are open to the general public.
+Webcasts
+There are no webcasts currently scheduled.
+Download or play NIEHS Health Chat's with a wide range of experts and topics.
+About NIEHS
+Your Environment. Your Health.
+Air Pollution and Your Health
+Introduction
+Air Pollution
+Air pollution is a familiar environmental health hazard. We know what we’re looking at when brown haze settles over a city, exhaust billows across a busy highway, or a plume rises from a smokestack. Some air pollution is not seen, but its pungent smell alerts you.
+It is a major threat to global health and prosperity. Air pollution, in all forms, is responsible for more than6.5 million deaths each year globally, a number that has increased over the past two decades.
+What Is Air Pollution?
+Air pollution is a mix of hazardous substances from both human-made and natural sources.
+Vehicle emissions, fuel oils and natural gas to heat homes, by-products of manufacturing and power generation, particularly coal-fueled power plants, and fumes from chemical production are the primary sources of human-made air pollution.
+Nature releases hazardous substances into the air, such as smoke from wildfires, which are often caused by people; ash and gases from volcanic eruptions; and gases, like methane, which are emitted from decomposing organic matter in soils.
+Traffic-Related Air Pollution(TRAP), a mixture of gasses and particles, has most of the elements of human-made air pollution: ground-level ozone, various forms of carbon, nitrogen oxides, sulfur oxides, volatile organic compounds, polycyclic aromatic hydrocarbons, and fine particulate matter.
+Ozone, an atmospheric gas, is often called smog when at ground level. It is created when pollutants emitted by cars, power plants, industrial boilers, refineries, and other sources chemically react in the presence of sunlight.
+Noxious gases, which include carbon dioxide, carbon monoxide, nitrogen oxides (NOx), and sulfur oxides (SOx), are components of motor vehicle emissions and byproducts of industrial processes.
+Particulate matter(PM) is composed of chemicals such as sulfates, nitrates, carbon, or mineral dusts. Vehicle and industrial emissions from fossil fuel combustion, cigarette smoke, and burning organic matter, such as wildfires, all contain PM.
+A subset of PM, fine particulate matter (PM 2.5) is 30 times thinner than a human hair. It can be inhaled deeply into lung tissue and contribute to serious health problems. PM 2.5 accounts formost health effectsdue to air pollution in the U.S.
+Volatile organic compounds(VOC) vaporize at or near room temperature—hence, the designation volatile. They are called organic because they contain carbon. VOCs are given off by paints, cleaning supplies, pesticides, some furnishings, and even craft materials like glue. Gasoline and natural gas are major sources of VOCs, which are released during combustion.
+Polycyclic aromatic hydrocarbons(PAH) are organic compounds containing carbon and hydrogen. Of more than 100 PAHs known to be widespread in the environment, 15 are listed in theReport on Carcinogens. In addition to combustion, many industrial processes, such as iron, steel, and rubber product manufacturing, as well as power generation, also produce PAHs as a by-product. PAHs are also found in particulate matter.
+Air Pollution and Climate Change
+Air pollution and climate change affect each other through complex interactions in the atmosphere. Air pollution is intricately linked with climate change because both problems come largely from the same sources, such as emissions from burning fossil fuels. Both are threats to people’s health and the environment worldwide. Read more:Health Impacts of Air Quality.
+What is NIEHS Doing?
+Over its 50-plus year history, NIEHS has been a leader in air pollution research. The institute continues to fund and conduct research into how air pollution affects health and the population groups who are most affected.
+How does air pollution affect our health?
+When the National Ambient Air Quality Standards were established in 1970, air pollution was regarded primarily as a threat to respiratory health. In 1993, NIEHS researchers published the landmarkSix Cities Study, which established an association between fine particulate matter and mortality.
+Air pollution exposure is associated with oxidative stress and inflammation in human cells, which may lay a foundation for chronic diseases and cancer. In 2013, the International Agency for Research on Cancer of the World Health Organization (WHO) classified air pollution as a humancarcinogen.
+Many studies have established thatshort-term exposure to higher levels of outdoor air pollutionis associated with reduced lung function, asthma, cardiac problems, emergency department visits, andhospital admissions. Mortality rates related to air pollution are also a concern. Exposure to the air pollutant PM2.5 is associated with anincreased risk of death.
+A team of researchers, partially funded by NIEHS, found thatdeaths decreasedafter air pollution regulations were implemented and coal-powered plants were retired. The study data covered 21 years. More specifically, they found exposure to PM2.5 from coal was associated with a mortality risk that was twice as high as the risk from exposure to PM2.5 from all sources. PM2.5 from coal is high in sulfur dioxide, black carbon, and metals.
+Public health concerns related to high air pollution exposures include cancer, cardiovascular disease, respiratory diseases, diabetes mellitus, obesity, and reproductive, neurological, and immune system disorders.
+Research on air pollution and health effects continually advances.
+Cancer
+Cardiovascular Disease
+Respiratory Disease
+Looking for Clinical Studies?
+Visit theJoin anNIEHS StudyWebsite
+The goal of theNatural History of Asthma with Longitudinal Environmental Sampling (NHALES)study is to help scientists understand how bacteria and other factors in the environment affect people who have moderate to severe asthma.
+Who can participate?
+NHALES: Asthma Study
+Tel 855-MYNIEHS (855-696-4347)[email protected]
+Whom does air pollution affect the most?
+Air pollution affects everyone’s health, but certain groups may be harmed more. Almost9 out of 10 people who live in urban areas worldwideare affected by air pollution.
+NIEHS-funded research indicates there are racial or ethnic and socioeconomic disparities in air pollution emissions. Air pollution emissions have decreased over past decades but thechanges vary by demographics. This research found that people with annual incomes above $70,000 generally experience greater declines in industry, energy, transportation, residential, and commercial-related emissions than do people with lower incomes.
+Children
+The NIEHS-fundedChildren’s Health Studyat the University of Southern California is one of the largest studies of the long-term effects of air pollution on children’s respiratory health. Among its findings:
+Other studies on women and children
+Older adults
+Rural dwellers
+NIEHS and community involvement
+NIEHS supports community participation in the research process and encourages collaborative approaches that build capacity in communities to address environmental health concerns. Community-engaged research and citizen science are two types of collaborative research approaches.
+For example, NIEHS grant recipients developedcommunity-level tacticsand public policies for reducing exposure to TRAP:
+Why improving air quality matters
+Further Reading
+Stories from theEnvironmental Factor(NIEHS Newsletter)
+Printable Fact Sheets
+Fact Sheets
+Air Pollution and Your Health
+Breast Cancer: Why the Environment Matters
+Climate Change and Human Health
+Lung Health and Your Environment
+Microbiome
+Podcasts
+Additional Resources
+Related Health Topics
+This content is available to use on your website.
+National Institute ofEnvironmental Health Sciences
+Follow Us
+Contact Information
+Policies & Services
+NIEHS Staff
+Related Sites
+Other Languages
+
+
+--- Content from https://pmc.ncbi.nlm.nih.gov/articles/PMC10025881/ ---
+An official website of the United States government
+Official websites use .govA.govwebsite belongs to an official
+                            government organization in the United States.
+Secure .gov websites use HTTPSAlock(LockLocked padlock icon) orhttps://means you've safely
+                                connected to the .gov website. Share sensitive
+                                information only on official, secure websites.
+Primary site navigation
+Logged in as:
+PERMALINK
+Air pollution and respiratory infections: the past, present, and future
+Alexys Monoson
+Evangeline Schott
+Kerry Ard
+Brita Kilburg-Basnyat
+Robert M Tighe
+Sonal Pannu
+Kymberly M Gowdy
+To whom correspondence should be addressed at Department of Pulmonary, Critical Care, and Sleep Medicine, Davis Heart and Lung Research Institute, The Ohio State University Wexner Medical Center, Columbus, OH 43210, USA. E-mail:kymberly.gowdy@osumc.edu.
+Collection date 2023 Mar.
+This article is published and distributed under the terms of the Oxford University Press, Standard Journals Publication Model (https://academic.oup.com/pages/standard-publication-reuse-rights)
+Abstract
+Air pollution levels across the globe continue to rise despite government regulations. The increase in global air pollution levels drives detrimental human health effects, including 7 million premature deaths every year. Many of these deaths are attributable to increased incidence of respiratory infections. Considering the COVID-19 pandemic, an unprecedented public health crisis that has claimed the lives of over 6.5 million people globally, respiratory infections as a driver of human mortality is a pressing concern. Therefore, it is more important than ever to understand the relationship between air pollution and respiratory infections so that public health measures can be implemented to ameliorate further morbidity and mortality. This article aims to review the current epidemiologic and basic science research on interactions between air pollution exposure and respiratory infections. The first section will present epidemiologic studies organized by pathogen, followed by a review of basic science research investigating the mechanisms of infection, and then conclude with a discussion of areas that require future investigation.
+Keywords:lung, inflammation, COVID-19, pneumonia, air pollution
+Ambient levels of criteria air pollutants continue to rise despite regulations by organizations like the United States Environmental Protection Agency (EPA) (EPA, 2022) and the European Environment Agency (EEA, 2022). According to the World Health Organization (WHO), 9 out of 10 individuals currently live in areas with ambient air pollution that exceeds the current local regulations (WHO, 2022). These elevated air pollution levels have important health consequences and continue to be a significant global public health concern. Air pollution is associated with more than 7 million premature deaths globally every year (IQAir, 2020;WHO, 2022). Beyond mortality, air pollution exposure can exacerbate chronic cardiopulmonary diseases, and can increase susceptibility to respiratory infections (WHO, 2022). As air pollution levels continue to rise despite global regulations on air quality, human morbidity and mortality are also expected to increase. Therefore, concurrent with efforts to improve air quality, research is required to better understand mechanisms driving adverse health effects from air pollution exposure that can be the focus of intervention strategies. The recent COVID-19 pandemic has again brought attention to respiratory infections, particularly the association and mechanisms between air pollution and enhanced infection risk/severity. Associations between air pollution exposure and enhanced respiratory infection severity have been well established in population and laboratory mechanistic studies. The earliest observation was in 1937 where an autopsy study noted evidence of alveolar carbon pigmentation, consistent with air pollution exposure, in individuals who died from pneumonia (Haythorn and Meller, 1938). Consistent with this observation, studies from the Great Smog of London event in 1952 demonstrated a direct correlation between increased ambient particulate matter (PM) and the incidence of pneumonia with an 80% increase in mortality when compared with the previous year and approximately 3500–4000 additional deaths in the 5 years following the event (Bellet al., 2004;Greater London Authority, 2002). Similar associations are being observed with the COVID-19 pandemic (Aggarwalet al., 2021;Bashiret al., 2020;Bianconiet al., 2020;Bilalet al., 2020;Boweet al., 2021;Chakrabartyet al., 2021;Cokeret al., 2020;Coleet al., 2020;De Angeliset al., 2021;Dragoneet al., 2021;Fanget al., 2021;Fattorini and Regoli, 2020;Fiascaet al., 2020;Hendryx and Luo, 2020;Jianget al., 2020;Konstantinoudiset al., 2021;Lemboet al., 2021;Lianget al., 2020;Linet al., 2020;Liuet al., 2021), suggesting broad implications of air pollution exposure and respiratory infections. Now, more than ever, it is important to understand both the epidemiologic and mechanistic relationships between air pollution and respiratory infection to ameliorate future morbidity and mortality from respiratory infections.
+This article will aim to provide a review of the literature regarding air pollution and pulmonary infections. The first section will highlight recent epidemiologic research, primarily focusing on the impact of the criteria air pollutants (O3, CO, PM2.5, NO2, SO2, and Pb) on pneumonia. Studies will be classified by pathogen and will focuse on data related to bacterial, fungal, and viral infections. We will provide a comprehensive review of both epidemiological and laboratory studies as well as an overview of the current mechanisms by which air pollution affects the immune response critical for clearing infections. This article will also highlight the emerging studies of criteria air pollutants and the incidence of SARS-CoV-2 infection, the respiratory virus responsible for the current COVID-19 pandemic. Lastly, we will attempt to identify areas that require further investigation on mechanisms driving susceptibility and severity of respiratory infections from air pollution.
+Epidemiological findings of air pollution and infection
+Acute respiratory infections are one of the top 5 leading causes of all-causes of global mortality (WHO, 2022). According to the WHO, 17% of deaths from acute lower respiratory infections (ie, pneumonia) are attributable to ambient air pollution (WHO, 2022). Pneumonia may be caused by several organisms including viruses, bacteria, and fungi. A diagnosis of pneumonia is made clinically by the examination of patient symptoms, a physical exam, and radiographic evidence. Because of this, the causative organism is often not identified. Several studies have defined associations between pneumonia diagnosis and ambient air pollutants concentrations. For example, increased PM2.5concentrations were associated with increased emergency department (ED) visits and admissions for ‘pneumonia’ in New York state (Croftet al., 2019). A similar study was conducted in Utah, where elevated PM2.5was associated with more ED visits, hospitalizations, and mortality from pneumonia (Pirozziet al., 2018). Similar observations have been defined in national studies. Dominiciet al.observed that an increase of PM2.5by 10 μg/m3was associated with a 5.4% increase in the rate of respiratory tract infections (Dominiciet al., 2006). These associations are not unique to PM2.5as they have been noted with other criteria air pollutants. For example, for every 1 ppb increase in O3, there was a 0.41% increase in admissions for pneumonia in the United States (Medina-Ramonet al., 2006). There also have been multiple epidemiological studies conducted in populations in Asia and Europe where NO2, O3, and PM10have been associated with increased risk of diagnosis and hospital admission for pneumonia (Ciencewicki and Jaspers, 2007;MacIntyreet al., 2014;Qiuet al., 2021). These studies, as well as others (Croftet al., 2020;MacIntyreet al., 2014;Zhanget al., 2019), clearly demonstrate that changes in air pollution levels lead to a greater incidence of morbidity and mortality from pneumonia.
+Influenza and respiratory syncytial virus infections
+Although pneumonia is a diagnosis that is nonspecific for a causative pathogen, epidemiological data support that changes in air quality increase incidence of viral-specific respiratory infections like influenza and respiratory syncytial virus (RSV). For example, an increase of one standard deviation in the EPA’s air quality index results in over 4000 additional hospitalizations for influenza in the U.S. every year (Croftet al., 2020). When examining the effects of specific criteria air pollutants, increases in PM2.5in New York City were associated with a 6% excess rate of influenza-related ED visits (Croftet al., 2020). Similar trends have been seen with other criteria air pollutants. In Brazil, China, and Australia, increased O3levels were associated with an increased risk of influenza and ED visits (Aliet al., 2018;Martinset al., 2002;Wonget al., 2009).Songet al.(2021)observed a correlation between SO2, CO, NO2, PM2.5, and PM10levels and influenza diagnoses across China between 2004 and 2017. Similar trends have been reported with RSV, a virus known to cause severe lower respiratory infections in young children. Among the criteria air pollutants, increases in PM10, PM2.5, NO2, CO, and SO2levels correlated with RSV diagnosis and ED visits for RSV in Korea, China, and Israel (Pompilio and Di Bonaventura, 2020;Croftet al., 2019;Yitshak-Sadeet al., 2017). Taken together, these data indicate that changes in ambient levels of multiple criteria air pollutants influence the incidence and severity of respiratory viral infections.
+Bacterial pneumonias
+Unlike the incidence of viral pneumonia and/or respiratory virus infections, the association between bacterial pneumonia and air pollution levels has not been as extensively studied. However, there are some sentinel studies suggesting similar associations. For example, in China, levels of O3, PM10, NO2, and PM2.5, SO2are independently associated with an increased risk of infection and admission for pneumonia secondary toMycoplasma pneumoniae(Bonoet al., 2016;Chenet al., 2020;Zhanget al., 2019). Similarly, in the United States, SO2was associated with increased rates of pneumococcal disease that spread to the bloodstream, caused by the bacteriaStreptococcus pneumoniae(Kimet al., 1996). The lack of population studies associating air pollution with bacterial pneumonia is likely due to the clinical difficulty in identifying a causative organism. While diagnoses of viral infections often rely on PCR testing that can be easily obtained via nasal swab or rapid blood test, bacterial pneumonias are often diagnosed via culture of respiratory sputum. Sputum samples are often difficult to collect; as patients must either be able to expectorate productively or undergo invasive sampling with bronchoscopy (BAL). Lastly, diagnoses of the specific causative organism are done by assays that are not high throughput and can sometimes take days to obtain results. Despite these challenges, data reported thus far indicate that air pollutants increase the incidence of bacterial pneumonias.
+The association between air pollution and tuberculosis (TB; caused by infection from the bacteriaMycobacterium tuberculosis) is particularly important in developing countries where TB infections contribute to millions of deaths annually (IQAir, 2020). Many developing countries have both a high incidence of TB as well as high levels of air pollutants. However, a large meta-analysis byPopovicet al.(2019)found a correlation between TB and air pollution levels across Asia, Europe, and North America. Although this article demonstrated the strongest correlation between TB outcomes and PM2.5, other studies have shown associations with PM10, PM2.5, NO2, and SO2(Hwanget al., 2014;Laiet al., 2016). Interestingly, levels of criteria air pollutants are not only associated with an increased risk of TB but also with an increased risk of drug-resistant infection. In Shandong province, China, 725 culture-positive cases of TB were examined and compared with ambient levels of PM2.5, PM10, O3, and CO. PM2.5, PM10, and CO were all associated with an increased incidence of multidrug-resistant TB infection (Yaoet al., 2019). However, the biological mechanisms by which this occurs are still unknown.
+Fungal pneumonias
+Fungal pneumonias are rare when compared with bacterial and viral pneumonia but have high morbidity and mortality compared to these more common pneumonias. Air pollution can also impact the severity of fungal pneumonias.Aspergillus, a fungi readily found both indoors and outdoors on surfaces ranging from soil to starchy foods, can cause pulmonary disease in humans, the most severe of which is invasive aspergillosis (Liuet al., 2018). In a study of a large Taiwanese database,Liuet al.(2018)demonstrated an association between PM2.5levels and incidence of invasive aspergillosis, suggesting that air pollution exposure may augment the severity of fungal pneumonias. However, these fungal pneumonias often occur in patients who are immunosuppressed. This includes individuals with HIV who are at risk for severe respiratory infections from the fungusPneumocystis jirovecii(PJP). In HIV-positive patients with low CD4 counts, elevated ambient levels of NO2, SO2, PM10, and O3are associated with increased PJP hospital admission rates (Alvaro-Mecaet al., 2015;Djaweet al., 2013). Knowing that air pollution can increase the severity of fungal infections in these susceptible populations indicates that more studies are needed to understand why this association occurs.
+SARS-CoV-2 infection
+The COVID-19 pandemic is one of the greatest public health crises of modern times and, according to the WHO, it has caused more than 615 million infections and 65 million deaths across the globe as of October 2022 (WHO, 2022). In an effort to stop the spread of the virus, many countries implemented lockdown policies. As people were confined to their homes, most ambient levels of criteria air pollutants were significantly reduced (Venteret al., 2020). Regardless of this reduction in air pollutants, the incidence and mortality of COVID-19 continued to correlate with air pollution levels (Wuet al., 2020). This association has been outlined inTable 1. A nationwide cross-sectional study comparing county-wide, long-term PM2.5levels with mortality from COVID-19 concluded that a 1-μg/m3increase in PM2.5was associated with an 8% increase in mortality (Lianget al., 2020). In the United Kingdom, increased PM2.5levels were associated with a 12% increase in new COVID-19 cases (Travaglioet al., 2021). These findings have been noted in other countries as well as with other air pollutants (ie, NO2, O3, PM2.5, and PM10) (Coleet al., 2020;Fattorini and Regoli, 2020). For example, in Wuhan China, levels of PM (both PM2.5and PM10) were temporally associated with COVID-19 mortality (Yaoet al., 2020a). Thus far, these population-based studies demonstrate associations between air pollutants and COVID-19 incidence and mortality; however, as the pandemic continues and new SARS-CoV2 strains emerge, more studies are required to assess whether these associations will continue and how they are modified by new variants. Additionally, the source of these pollutants (eg, industrial, vehicles, and biomass) may vary among the different areas examined and could potentially alter the pollutant and pathogen interactions in these population studies.
+Table 1.
+Epidemiological studies of air pollution and COVID-19 outcomes
+Original epidemiological studies found through searches of Google Scholar and PubMed were included. Review articles, articles examining only conglomerate measures of air pollution, and articles in preprint at the time of search were excluded.
+Despite the strengths and number of studies reporting the associations between air pollution and respiratory infections, there are confounders for these datasets that can influence the interpretation of the data. For instance, most of these studies examine large and diverse populations that include patients from a variety of different socioeconomic statuses, demographics, medical comorbidities, and housing and work conditions. This population diversity can make statistical analysis difficult; particularly when accounting for covariates that could be effect modifiers. Additionally, most of the epidemiological studies focus on specific susceptible populations, including the elderly or children, thus raising the question of whether they are broadly applicable to all age groups. A final consideration, as noted above, is that diagnosis of pneumonia and specific pathogens can be challenging due to misdiagnosis and inherent difficulties in obtaining specimens for testing as well as different assay methods. Despite these barriers, the available data support strong associations between elevated air pollution exposure and increased incidence and severity of pulmonary infections.
+Laboratory studies defining associations between air pollution and respiratory infections
+Laboratory studies have been conducted to uncover the causal relationships between air pollution and respiratory infections; each with inherent strengths and weaknesses. These studies have used a number of different study designs to investigate relationships. The first of these arein vivohuman modeling. In these studies, human volunteers are exposed to a low, controlled level of the air pollutant and lung or nasal cells are harvested via bronchoalveolar lavage, nasal lavage, or nasopharyngeal brushings. After the cells have been isolated, they can be exposed to a pathogen of interest. Effects have been defined in human alveolar macrophages and respiratory epithelial cells using this method. These methods have demonstrated mechanisms by which air pollutants alter cellular responses to respiratory infection (Beckeret al., 2002;Jasperset al., 2005). However, this type of study design does have limitations, including single pollutant evaluation, examining cells outside of the microenvironment that can influence biological responses, as well as eliminating systemic immune responses to pathogen. To address some of these concerns, investigators have also used rodent exposure models. Rodent models have a number of benefits including allowing for a broader range of exposure concentrations and durations than in humans, and enabling direct infection with pathogens, assessments over a variety of time points, and evaluation of whole-organism responses including systemic translocation of infection. The major limitations of rodent models are that they are generally performed on a single genetic strain that lacks the genetic diversity of human populations. In addition, they have different fractional deposition of pollutants throughout the upper and lower airways than human models, rodent studies are typically performed on young healthy mice without preexisting respiratory disease, and until recently, most rodent studies were performed on a single sex. In contrast, the majority of people who suffer from pneumonia tend to have underlying medical conditions such as chronic cardiac or lung diseases or are at the extremes of age (eg, children or the elderly). This can lead to difficulty in translating observations between rodent models and humans, though they remain an important model for defining causal relationships. A final study design is the use ofin vitrohuman cells. This typically involves the use of either a transformed cell line or primary cells isolated from human volunteers that are exposedin vitroto a combination of air pollutants and pathogens. This method can facilitate mechanistic research on how that cell type responds to a pollutant and pathogen but has some of the same drawbacks as the cells used fromin vivohuman exposure models.
+Using these various study designs, several mechanisms have been defined for how air pollution impacts respiratory infections. This review focuses on 4 principal mechanisms including (1) augmented inflammation within the lining of the respiratory tract disrupting normal innate barrier defenses; (2) disruption of macrophage pathogen clearance functions; (3) alterations in the expression of cellular receptors used by pathogens to cause infection; and (4) modulation of the commensal bacteria in the lung leading to a favorable environment for pathogenic infections. Below, we review the current laboratory findings of these 4 mechanisms of air pollution and their association with increased susceptibility and/or severity of respiratory infection. Additionally, a graphical description of these proposed mechanisms can be found inFigure 1.
+Figure 1.
+Molecular mechanisms by which air pollution increases susceptibility to respiratory infections. Pollutants that have been shown to increase susceptibility or exacerbate pulmonary infections include PM, sulfur dioxide, diesel exhaust, ozone, and nitrogen dioxide. It is thought that inhalation of these pollutants increases the amount of PAMPs, danger associated molecular patterns (DAMPs), and reactive oxygen species which can alter function and responses of the resident lung cells including the alveolar macrophage and epithelial cells. (A) Known air pollution-induced alterations in the alveolar macrophage include (1) decreased phagocytosis; (2) increased expression of PRRs; and increased production of proinflammatory cytokines. (B) Known air pollution-induced alterations in epithelial cells include (1) increased cell death; (2) augmented inflammatory cyto/chemokine production; (3) disruption of normal innate barrier defenses; (4) alterations in the expression of cellular receptors used by pathogens to cause infection; and (5) modulation of the commensal bacteria in the lung leading to a favorable environment for pathogenic infections. These air pollution-induced changes to the lung can lead to increased pathogen burden and mortality associated with infection. Created with BioRender.com.
+Air pollution disruption of barrier functions
+Inflammation of the respiratory tract can disrupt a number of innate protective barriers that normally limit or prevent infection. One of these barriers is the epithelial lining fluid (ELF), a protective layer of fluid that physically traps pathogens and contains a number of resident immune cells and compounds important in host defense and anti-oxidant responses including mucins, surfactant/surfactant proteins, glutathione, uric acid, superoxide dismutase, and ascorbate (Crosset al., 1994;Kelly, 2003;Kellyet al., 1996). A number of air pollutants (PM2.5, O3, and NO2) have been shown to induce oxidative stress and thereby decrease host defense responses (Chauhan and Johnston, 2003;Ciencewicki and Jaspers, 2007;Dellingeret al., 2001;Kelly, 2003). This appears to result in depletion of host defense and anti-oxidant components in ELF as has been observed in samples isolated from human and rodent airspaces (Behndiget al., 2009;Kelly, 2003;Kelly and Tetley, 1997). Depletion of ELF factors such as surfactant proteins, defensins, and/or club cell secretory protein (CCSP) has also been noted in models of air pollution to enhance susceptibility to respiratory infections. For example, diesel exhaust and O3exposure deplete the lung of important host defense molecules including CCSP, surfactant protein A (SP-A), and surfactant protein D (SP-D), which directly impact susceptibility to respiratory infection (Ciencewickiet al., 2007;Gowdyet al., 2008). Another lung innate defense function altered by air pollution exposure is mucociliary clearance. Respiratory cilia move debris and potential pathogens trapped in mucus from the lower respiratory tract into the oropharynx where they can be swallowed or expectorated. Not only do cilia have reduced motion following air pollution exposure, but mucous becomes less viscous, significantly decreasing mucociliary clearance and increasing susceptibility to infection (Groseet al., 1980;Pedersen, 1990;Saldivaet al., 1992;Xiaoet al., 2013). Air pollutants can also affect the integrity of the epithelial barrier. When exposed to PM, the tight junctions of the alveolar epithelium are disrupted by reactive oxygen-mediated destruction of zona occludens-1 (ZO-1) and occludin proteins (Caraballoet al., 2011;Wanget al., 2012). Disruption of tight junctions impacts the integrity of the alveolar-epithelial barrier, potentially facilitating the entry of pathogens into the respiratory interstitium.
+Air pollution alters macrophage functions
+The second mechanism by which air pollution may lead to increased susceptibility to respiratory infections is by causing macrophage dysfunction. Macrophage functions are critical to pulmonary host defense. These include phagocytosing pathogens, facilitating antigen presentation, and pathogen destruction via oxygen-dependent pathways. In addition, macrophages produce cyto/chemokines that recruit other important host-defense immune cells (Beckeret al., 2005). To identify pathogens, macrophages use pathogen-associated molecular patterns (PAMPs) on microbes that are recognized by pattern recognition receptors (PRRs) including toll-like receptors 2 and 4 (TLR2 and TLR4). Air pollution can regulate the expression of PRRs as evidenced by the downregulation of TLR4 in human alveolar macrophages exposed to PM (Morrow, 1988). This impact on PRRs can then decrease the ability of macrophages to recognize invading pathogens. In addition to having a decreased ability to recognize pathogens, macrophages have decreased motility, altered phagocytosis, and augmented cytokine and chemokine production following air pollutant exposure (Becker and Soukup, 1999;Chauhan and Johnston, 2003;Kienastet al., 1996;Rylanceet al., 2015). Although the majority of research has shown that exposure to air pollutants leads to decreased pathogen clearance by macrophages, a recent study byVoseet al.(2021)reported that exposure to wood smoke particles altered macrophage phenotypes leading to increased clearance of influenza infection and decreased markers of clinical severity. This suggests that different types of lung macrophages or exposures may result in different effects on respiratory infections. Despite this, macrophages are a principal target of air pollutants impacting lung infection, and more studies are needed to understand the underlying mechanisms.
+Immune response alterations following air pollution exposure
+Air pollution modifies cellular receptors used by pathogens to cause infection. Diesel exhaust, NO2, and O3have been shown to increase the surface expression of intercellular adhesion molecule 1 (ICAM-1) (Ciencewickiet al., 2007;Pathmanathanet al., 2003;Spannhakeet al., 2002;Takahashiet al., 1995). ICAM-1 is the primary cellular attachment for a number of viruses, including rhinovirus (Greveet al., 1989). Similarly,S. pneumoniaebinds to host epithelial cells via platelet-activating factor receptor (PAFR) and exposure to PM10has been shown to increase PAFR levels and bacterial attachment (Mushtaqet al., 2011). Similarly, both NO2and PM2.5have been shown to increase the expression of angiotensin converting enzyme-2 (ACE-2) in the respiratory epithelium, which is a cellular receptor for SARS-CoV-2 (Aztatzi-Aguilaret al., 2015;Hamminget al., 2004;Hoffmannet al., 2020;Linet al., 2018;Paital and Agrawal, 2021). Despite this, a direct causal relationship between air pollution and SARS-CoV-2 infection in laboratory models has yet to be demonstrated.
+In addition to increasing the expression of cellular receptors that pathogens use to gain access to cells, air pollutants can also augment the immune response leading to greater lung inflammation/injury which can perpetuate the systemic dissemination of pathogens. For example, respiratory epithelial cells recognize pathogens through a number of receptors, including toll-like receptors. When rodents are exposed to diesel exhaust prior to influenza infection, the preexposure to air pollution upregulated pulmonary expression of toll-like receptor-3 (TLR3) and increased airspace levels of IL-6, IFN-γ, and TNF-α (Ciencewickiet al., 2007). In most biological models of infection, an augmented immune response is beneficial to the host defense response by promoting pathogen clearance; however, in the context of air pollution, the increased inflammation is mostly coupled with increased pathogen burden. However, it is unclear why this paradox following air pollution exposure happens and few studies have addressed this. It has been shown that this augmented inflammatory response by air pollutants can lead to a disruption of the balance of proteases/antiproteases, allowing for a direct increase in viral entry into cells and/or host susceptibility (Kesicet al., 2012). However, emerging literature has also reported that air pollution exposure can modulate the adaptive immune responses by changing T cell polarization (ie, decreased regulatory T cells and Th22 polarization, increased Th17 and/or Th2 skewing) which results in prolonged inflammation and pathogen load in the lung (Deiuliiset al., 2012;Jaligamaet al., 2018,2017;Kumaret al., 2021;Liet al., 2022). Whether these adaptive immune changes are driven by increased pulmonary inflammation or direct effects on the adaptive immune response still remains unknown.
+Air pollution disruption of the microbiome
+The 4th mechanism of pollution-mediated respiratory infections is an alteration of the microenvironment within the airways promoting a more hospitable environment for pathogens to survive/proliferate. An important aspect of this is the formation of biofilm, which is clinically important due to its ability to confer antibiotic resistance (Husseyet al., 2017;Wooet al., 2018). WhenS. pneumoniae,Staphylococcus aureus, andPseudomonas aeruginosaare directly exposed to PMin vivoandin vitro, there is a significant increase in both biofilm thickness and complexity (Husseyet al., 2017;Liet al., 2017;Wooet al., 2018). Specifically, whenPseudomonaswas exposed to PM, the biofilm it established had increased cellular adhesion to respiratory cells (Wooet al., 2018). This increased adhesion allows for increased pathogen uptake and/or entry and subsequent infection. In addition, whenStreptococcusbacteria is exposed to PM, the bacteria had a higher rate of dissemination from the nasopharynx to the lungs, where it may lead to pneumonia (Yadavet al., 2020). Additionally, following air pollution exposure, there is not only a change in the 16S rRNA in the lung, with bacterial diversity decreasing, but also a significant increase inProteobacteriain the lungs (Liet al., 2017). This dysbiosis of the lung microbiome with a decrease in commensal bacterial diversity as well as an increase in bacterial species is known to be pathogenic (Liet al., 2017;Wanget al., 2019;Yuet al., 2016).
+Limitations
+Though the laboratory research and mechanisms discussed above support the epidemiological findings of pollution-associated respiratory infections, there are still areas where further investigations are warranted. Currently, most human and rodent models used to evaluate the interaction of air pollution and infection are from young and otherwise healthy subjects/specimens. These healthy subjects are mostly used for both financial reasons and safety concerns. In contradiction to these commonly used models, most epidemiological findings report that susceptible populations (children and >65 years of age) are most at risk for air pollution-induced health effects. Furthermore, many of these current controlled human laboratory studies that are performed rely on collecting cellular samples (ie, BAL) which are difficult and complicated to collect and can confer an increased risk for complications. Due to these constraints, majority of the research models used for the study of pollution-associated respiratory infections are relatively limited in mechanism and may not accurately reflect the populations that are most susceptible. Lastly, most laboratory studies only examine a single air pollutant whereas epidemiological studies include exposure to a wide array of environmental exposures. Recent studies have reported that these exposures interact with each other, affecting the immune response in a way that is difficult to replicate in a controlled setting (Hathawayet al., 2021;Majumderet al., 2021a,b). Additionally, there may be interactions with criteria air pollutants and unregulated air toxins (ie, ultrafine particles, acrolein, and biomass). Many of these unregulated toxins have been implicated in pathogen susceptibility in laboratory studies (Brockeet al., 2022;Jaligamaet al., 2017;Kumaret al., 2021;Rebuliet al., 2019) but very few are considered in population-based studies. Therefore, evaluating coexposures in the context of susceptibility to infection may yield differential results to the data that are already available. In conclusion, although current data support pollution-mediated damage to innate immune barriers, macrophages, and cellular receptors, the research community has just begun to understand the mechanisms behind pollution-associated respiratory infections and there is a need for more studies to better understand this interaction.
+Conclusion and future directions
+As highlighted by the current COVID-19 pandemic, respiratory infections are an important cause of human morbidity and mortality and a significant public health threat. Addressing these pandemic and future events will require a detailed understanding of factors that regulate infection risk and severity. Highlighted in this review, air pollution is an important factor impacting respiratory infection risk and severity. This is supported both by population associations in epidemiologic studies and causal mechanistic studies. Despite these observations, there remain gaps in our understanding. Resolving these gaps will be critical as the prevalence and severity of respiratory infections are expected to increase air pollution levels, despite regulations will continue to rise. Addressing this will require collaborations between different environmental health disciplines that will address interactions between respiratory infection and the environment. In addition, more transdisciplinary research is needed that leverages the strengths and weaknesses of population-based research with basic mechanistic studies to identify novel mechanisms by which air pollution alters respiratory infections, risk factors for these effects, and intervention strategies that target this risk. Ultimately, these measures would improve public health and limit morbidity and mortality associated with respiratory infection.
+Declaration of conflicting interests
+Dr. Brita Kilburg-Basnyat is currently employed by Arcus Biosciences, Inc but completed the majority of her contributions (concept and intellectual contributions) during her postdoctoral scholar position at East Carolina University. The remaining authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+Contributor Information
+Alexys Monoson, 
+Department of Pulmonary, Critical Care and Sleep Medicine, The Ohio State University Wexner Medical Center, Columbus, Ohio 43210, USA.
+Evangeline Schott, 
+Department of Pulmonary, Critical Care and Sleep Medicine, The Ohio State University Wexner Medical Center, Columbus, Ohio 43210, USA.
+Kerry Ard, 
+School of Environment and Natural Resources, The Ohio State University, Columbus, Ohio 43210, USA.
+Brita Kilburg-Basnyat, 
+Department of Pharmacology and Toxicology, East Carolina University, Greenville, North Carolina 27834, USA.
+Robert M Tighe, 
+Department of Medicine, Duke University Medical Center, Durham, North Carolina 27710, USA.
+Sonal Pannu, 
+Department of Pulmonary, Critical Care and Sle [Content truncated]
+
+================================================================================
+
+Discussion:
+--- Content from https://www.who.int/news-room/spotlight/how-air-pollution-is-destroying-our-health ---
+How air pollution is destroying our health
+WHO data show that almost all of the global population (99%) breathe air that exceeds WHOguideline limitsand contains high levels ofpollutants, with low- and middle-income countries (LMIC) suffering from the highest exposures.
+Ambient (outdoor) air pollution in both cities and rural areas is causing fine particulate matter which results in strokes, heart diseases, lung cancer, and acute and chronic respiratory diseases.
+Additionally, around 2.6 billion people are exposed to dangerous levels of household air pollution from using polluting open fires or simple stoves for cooking fuelled by kerosene, biomass (wood, animal dung and crop waste) and coal.
+First Global Conference on Air Pollution and Health
+To rally the world towards major commitments to fight this problem, WHO and partners convened thefirstGlobal Conference on Air Pollution and Healthin Geneva on 29 October – 1 November 2018. The conference raised awareness of this growing public health challenge and shared information and tools on the health risks of air pollution and its interventions.
+This conference showcased some of WHO’s work on air pollution, including the findings of its Global Platform on Air Quality and Health. This platform, whose diverse membership includes researchers, civil society, UN agencies and other partner institutions, reviewed the data on air quality and health. For example, the platform worked on techniques to more accurately attribute air pollution coming from different sources of pollution. Ongoing work includes improving estimates of air quality by combining the data from various air quality monitoring networks, atmospheric modelling and satellite remote sensing.
+Event
+News
+Video
+Report
+Health impacts of air pollution
+There are two main types of air pollution: ambient air pollution (outdoor pollution) and household air pollution (indoor air pollution).Ambient air pollution is a major environmental health problem affecting everyone in low-, middle-, and high-income countries as its source – combustion of fossil fuel – is ubiquitous. Household air pollution is mainly caused by the use of solid fuels (such as wood, crop wastes, charcoal, coal and dung) and kerosene in open fires and inefficient stoves. Most of these people are poor and live in low- and middle-income countries.
+Exposure to smoke from cooking fires causes 3.2 million premature deaths each year, mostly in low- and middle-income countries, where polluting fuels and technologies are used every day, particularly at home for cooking, heating and lighting. Women and children, who tend to spend more time indoors, are affected the most. LMIC also suffer the greatest from exposure ambient air pollution with 3.68 million premature deaths each year, which is almost 8 times the mortality rates in high income countries (0.47 million).
+The main pollutants are:
+-  particulate matter, a mix of solid and liquid droplets, with larger particles (PM10) arising from pollen, sea spray and wind-blown dust from erosion, agricultural spaces, roadways and mining operations, while finer particles (PM2.5) can be derived from primary sources (for example combustion of fuels in power generation facilities, industries or vehicles) and secondary sources (for example chemical reactions between gases)
+-  nitrogen dioxide (NO2), a gas from combustion of fuels in processes such as those used for furnaces, gas stoves, transportation, industry and power generation;
+-  sulfur dioxide, another gas mainly from the combustion of fossil fuels for domestic heating, industries and power generation; and
+-  ozone at ground level, caused by a chemical reaction of gases, such as NO2, in the presence of sunlight. The pollutant that is most commonly monitored by regulatory frameworks and for which a lot of evidence of adverse health impact is available is particulate matter followed by nitrogen dioxide.
+Fact sheets
+Ambient (outdoor) air pollution
+Household air pollution
+How air pollution affects our body
+Particles with a diameter of 10 microns or less (≤ PM10) can penetrate and lodge deep inside the lungs, causing irritation, inflammation and damaging the lining of the respiratory tract. Smaller, more health-damaging particles with a diameter of 2.5 microns or less (≤ PM2.5– 60 of them make up the width of a human hair) can penetrate the lung barrier and enter the blood system, affecting all major organs of the body. These pollutants increase the risk of heart and respiratory diseases, as well as lung cancer and strokes.
+Ozone is a major factor in causing asthma (or making it worse), and nitrogen dioxide and sulfur dioxide can also cause asthma, bronchial symptoms, lung inflammation and reduced lung function.In 2021 WHO updated the Global Air Quality Guidelines, which recommend the maximum safe level for PM2.5annual average concentration of 5 μg/m3or less. The guidelines provide evidence of the damage air pollution inflicts on human health, at even lower concentrations than previously understood. The updated guidelines provide recommendations on air quality guideline levels as well as interim targets for six key air pollutants. They also offer qualitative statements on good practices for the management of certain types of particulate matter (PM), for example, black carbon/elemental carbon, ultrafine particles, and particles originating from sand and dust storms, for which there is insufficient quantitative evidence to derive AQG levels.
+Air pollution has a disastrous effect on children; there were more than 5 million deaths of children under the age of 5 years. More than 27% of those deaths – 1.7 million – were attributable to environmental factors, with air pollution foremost among them. Globally, lower respiratory infections are the second leading cause of death for children under 5 years. Every year, 442 000 children (as of 2022) younger than 5 years die prematurely from breathing polluted air. Evidence suggests that air pollution could also harm children before they are born (reduced birth weight) through their mothers' exposure. There is emerging evidence linking air pollution exposure to cancer, neurodevelopmental and metabolic diseases in children.
+As well as affecting our health, pollutants in the air are also causing long-term environmental damage by driving climate change, itself a major threat to health and well-being.
+Already in 2018, the UN Intergovernmental Panel on Climate Change warned that coal-fired electricity must end by 2050 if we are to limit global warming rises to 1.5 °C. If not, we may see a major climate crisis in just 20 years.
+Affordable strategies exist to reduce emissions from energy, transport, waste management, housing and industrial sectors. These interventions often carry other benefits like reduced traffic and noise, increased physical activity and better land use – all of which contribute to improving health and well-being. WHO also supports cities with the data, tools and capacity to select, implement and track clean and healthy policies at the city level. Better air quality will benefit all of us, everywhere.
+Multimedia
+She was breathing in illegal levels of pollution
+Second global conference on air pollution and health
+Training Video: Health Economic Assessment Tool (HEAT) for walking and cycling
+Clean air & energy for health webinar #6 - The research landscape of household air pollution, clean energy access, and health in Rwanda
+Reports
+Sustainable development goal indicator 3.9.1: mortality attributed to air pollution
+In 2019, air pollution – both ambient and household – was the largest environmental risk to
+health, carrying responsibility for about one...
+Clean household energy solutions toolkit (‎CHEST)‎: Household Multiple Emission Sources (HOMES) model
+The WHO Household Multiple Emission
+Sources (HOMES) model can help policymakers
+and program planners determine how
+household air pollution levels and...
+Compendium of WHO and other UN guidance in health and environment, 2024 update
+This is the 2024 update of the Compendium of WHO and other UN guidance on health and environment.
+The Compendium is a comprehensive collection of available...
+Policy Brief: Clean Household Energy Solutions Toolkit (CHEST)
+A systematic review of the evidence has 
+demonstrated the key role of clean household 
+energy in improving global health, reaffirming 
+the importance...
+News
+Health community calls for urgent action for clean air ahead of WHO conference
+Taking local climate action for global health impacts
+WHO announces the 2024 updated Compendium of interventions on environmental health
+Health consequences of air pollution on populations
+Initiatives
+
+--- Content from https://www.who.int/health-topics/air-pollution ---
+Air pollution
+Air pollution is contamination of the indoor or outdoor environment by any chemical, physical or biological agent that modifies the natural characteristics of the atmosphere.
+Household combustion devices, motor vehicles, industrial facilities and forest fires are common sources of air pollution. Pollutants of major public health concern include particulate matter, carbon monoxide, ozone, nitrogen dioxide and sulfur dioxide. Outdoor and indoor air pollution cause respiratory and other diseases and are important sources of morbidity and mortality.
+WHO data show that almost all of the global population (99%) breathe air that exceedsWHO guideline limitsand contains high levels ofpollutants, with low- and middle-income countries suffering from the highest exposures.
+Air quality is closely linked to the earth’s climate and ecosystems globally. Many of the drivers of air pollution (i.e. combustion of fossil fuels) are also sources of greenhouse gas emissions. Policies to reduce air pollution, therefore, offer a win-win strategy for both climate and health, lowering the burden of disease attributable to air pollution, as well as contributing to the near- and long-term mitigation of climate change.
+From smog hanging over cities to smoke inside the home, air pollution poses a majorthreat to healthand climate.
+Ambient (outdoor) air pollution in both cities and rural areas is causing fine particulate matter which result in strokes, heart diseases, lung cancer, acute and chronic respiratory diseases.
+Additionally, around 2.4 billion people are exposed to dangerous levels of household air pollution, while using polluting open fires or simple stoves for cooking fuelled by kerosene, biomass (wood, animal dung and crop waste) and coal.
+The combined effects of ambient air pollution and household air pollution is associated with 7 million premature deaths annually.
+Sources of air pollution are multiple and context specific. The major outdoor pollution sources include residential energy for cooking and heating, vehicles, power generation, agriculture/waste incineration, and industry. Policies and investments that support sustainable land use, cleaner household energy and transport, energy-efficient housing, power generation, industry, and better municipal waste management can effectively reduce key sources of ambient air pollution.
+WHO promotes interventions and initiatives for healthy sectoral policies (including energy, transport, housing, urban development and electrification of health-care facilities), addressing key risks to health from air pollution indoors and outdoors, and contributing to achieving health co-benefits from climate change mitigation policies.
+WHO provides technical support to WHO’s Member States in the development of normative guidance, tools and provision of authoritative advice on health issues related to air pollution and its sources.
+WHO monitors and reports on global trends and changes in health outcomes associated with actions taken to address air pollution at the national, regional and global levels.
+WHO has also developed and implemented a strategy for raising awareness on the risk of air pollution, as well as available solutions that can be implemented to mitigate the risks of exposure to air pollution. Through digital outreach and partnerships, WHO has helped enrich the value proposition of addressing air pollution for health and environment ministries, city governments and other stakeholders from sectors with significant emissions.
+News
+Health community calls for urgent action for clean air ahead of WHO conference
+Taking local climate action for global health impacts
+WHO announces the 2024 updated Compendium of interventions on environmental health
+Health consequences of air pollution on populations
+Latest publications
+Sustainable development goal indicator 3.9.1: mortality attributed to air pollution
+In 2019, air pollution – both ambient and household – was the largest environmental risk to
+health, carrying responsibility for about one...
+Clean household energy solutions toolkit (‎CHEST)‎: Household Multiple Emission Sources (HOMES) model
+The WHO Household Multiple Emission
+Sources (HOMES) model can help policymakers
+and program planners determine how
+household air pollution levels and...
+Compendium of WHO and other UN guidance in health and environment, 2024 update
+This is the 2024 update of the Compendium of WHO and other UN guidance on health and environment.
+The Compendium is a comprehensive collection of available...
+Policy Brief: Clean Household Energy Solutions Toolkit (CHEST)
+A systematic review of the evidence has 
+demonstrated the key role of clean household 
+energy in improving global health, reaffirming 
+the importance...
+Documents
+Health economic assessment tool (‎HEAT)‎ for walking and for cycling. Methods and user guide on physical...
+The promotion of cycling and walking for everyday physical activity not only promotes health but also has important positive effects on societies and the...
+Concept Note: Second global conference on air pollution and health
+The Global conference on air pollution and health: Accelerating action for clean air, clean energy access and climate change mitigation will highlight...
+Tracking SDG7: The Energy Progress Report 2024 - Executive Summary
+SDG 7 is to ensure access to affordable, reliable, sustainable and modern energy. The goal includes reaching universal access to electricity and clean...
+Tracking SDG7: The Energy Progress Report 2024
+SDG 7 is to ensure access to affordable, reliable, sustainable and modern energy. The goal includes reaching universal access to electricity and clean...
+Our work
+Accelerating access to electricity in health-care facilities
+Estimating the morbidity from air pollution and its economic costs
+Identifying solutions for countries
+Synthesizing evidence and knowledge on air pollution
+Feature stories
+Air pollution: The invisible health threat
+Launch of WHO's Household Energy Policy Repository
+What are the WHO Air quality guidelines?
+Transitioning to cleaner cooking
+Infographics
+Save the Date: Global Conference on Air Pollution and Health
+Household Air Pollution: Clean Cooking
+Air pollution kills 13 people every minute
+SDG7 2023: Access to Clean Cooking 2
+Videos
+She was breathing in illegal levels of pollution
+Second global conference on air pollution and health
+Clean air & energy for health webinar #6 - The research landscape of household air pollution, clean energy access, and health in Rwanda
+Training Video: Health Economic Assessment Tool (HEAT) for walking and cycling
+Podcasts
+Episode #66 - Air pollution, a public health emergency
+Why does WHO consider air pollution a public health emergency? If you live in highly polluted areas does COVID-19 affect you differently? WHO’s Dr Maria Neira explains in Science in 5.
+Episode #56 - Air pollution & COVID-19
+What have we learned about air pollution and COVID-19? Learn about six air pollutants that are harming your health. Dr Maria Neira explains findings from WHO’s new air quality guidelines in Science in 5.
+Events
+Conference "Particle Pathways": Exploring the nexus of indoor air pollution and airborne diseases
+Second Global Conference on Air Pollution and Health
+Towards a Healthier Future: Bridging Air Pollution, Climate Change, Energy, and Health
+Spotlight
+Related health topics
+Climate change
+Noncommunicable diseases
+
+
+
+
+================================================================================
+
+Conclusion:
+--- Content from https://www.who.int/news-room/spotlight/how-air-pollution-is-destroying-our-health ---
+How air pollution is destroying our health
+WHO data show that almost all of the global population (99%) breathe air that exceeds WHOguideline limitsand contains high levels ofpollutants, with low- and middle-income countries (LMIC) suffering from the highest exposures.
+Ambient (outdoor) air pollution in both cities and rural areas is causing fine particulate matter which results in strokes, heart diseases, lung cancer, and acute and chronic respiratory diseases.
+Additionally, around 2.6 billion people are exposed to dangerous levels of household air pollution from using polluting open fires or simple stoves for cooking fuelled by kerosene, biomass (wood, animal dung and crop waste) and coal.
+First Global Conference on Air Pollution and Health
+To rally the world towards major commitments to fight this problem, WHO and partners convened thefirstGlobal Conference on Air Pollution and Healthin Geneva on 29 October – 1 November 2018. The conference raised awareness of this growing public health challenge and shared information and tools on the health risks of air pollution and its interventions.
+This conference showcased some of WHO’s work on air pollution, including the findings of its Global Platform on Air Quality and Health. This platform, whose diverse membership includes researchers, civil society, UN agencies and other partner institutions, reviewed the data on air quality and health. For example, the platform worked on techniques to more accurately attribute air pollution coming from different sources of pollution. Ongoing work includes improving estimates of air quality by combining the data from various air quality monitoring networks, atmospheric modelling and satellite remote sensing.
+Event
+News
+Video
+Report
+Health impacts of air pollution
+There are two main types of air pollution: ambient air pollution (outdoor pollution) and household air pollution (indoor air pollution).Ambient air pollution is a major environmental health problem affecting everyone in low-, middle-, and high-income countries as its source – combustion of fossil fuel – is ubiquitous. Household air pollution is mainly caused by the use of solid fuels (such as wood, crop wastes, charcoal, coal and dung) and kerosene in open fires and inefficient stoves. Most of these people are poor and live in low- and middle-income countries.
+Exposure to smoke from cooking fires causes 3.2 million premature deaths each year, mostly in low- and middle-income countries, where polluting fuels and technologies are used every day, particularly at home for cooking, heating and lighting. Women and children, who tend to spend more time indoors, are affected the most. LMIC also suffer the greatest from exposure ambient air pollution with 3.68 million premature deaths each year, which is almost 8 times the mortality rates in high income countries (0.47 million).
+The main pollutants are:
+-  particulate matter, a mix of solid and liquid droplets, with larger particles (PM10) arising from pollen, sea spray and wind-blown dust from erosion, agricultural spaces, roadways and mining operations, while finer particles (PM2.5) can be derived from primary sources (for example combustion of fuels in power generation facilities, industries or vehicles) and secondary sources (for example chemical reactions between gases)
+-  nitrogen dioxide (NO2), a gas from combustion of fuels in processes such as those used for furnaces, gas stoves, transportation, industry and power generation;
+-  sulfur dioxide, another gas mainly from the combustion of fossil fuels for domestic heating, industries and power generation; and
+-  ozone at ground level, caused by a chemical reaction of gases, such as NO2, in the presence of sunlight. The pollutant that is most commonly monitored by regulatory frameworks and for which a lot of evidence of adverse health impact is available is particulate matter followed by nitrogen dioxide.
+Fact sheets
+Ambient (outdoor) air pollution
+Household air pollution
+How air pollution affects our body
+Particles with a diameter of 10 microns or less (≤ PM10) can penetrate and lodge deep inside the lungs, causing irritation, inflammation and damaging the lining of the respiratory tract. Smaller, more health-damaging particles with a diameter of 2.5 microns or less (≤ PM2.5– 60 of them make up the width of a human hair) can penetrate the lung barrier and enter the blood system, affecting all major organs of the body. These pollutants increase the risk of heart and respiratory diseases, as well as lung cancer and strokes.
+Ozone is a major factor in causing asthma (or making it worse), and nitrogen dioxide and sulfur dioxide can also cause asthma, bronchial symptoms, lung inflammation and reduced lung function.In 2021 WHO updated the Global Air Quality Guidelines, which recommend the maximum safe level for PM2.5annual average concentration of 5 μg/m3or less. The guidelines provide evidence of the damage air pollution inflicts on human health, at even lower concentrations than previously understood. The updated guidelines provide recommendations on air quality guideline levels as well as interim targets for six key air pollutants. They also offer qualitative statements on good practices for the management of certain types of particulate matter (PM), for example, black carbon/elemental carbon, ultrafine particles, and particles originating from sand and dust storms, for which there is insufficient quantitative evidence to derive AQG levels.
+Air pollution has a disastrous effect on children; there were more than 5 million deaths of children under the age of 5 years. More than 27% of those deaths – 1.7 million – were attributable to environmental factors, with air pollution foremost among them. Globally, lower respiratory infections are the second leading cause of death for children under 5 years. Every year, 442 000 children (as of 2022) younger than 5 years die prematurely from breathing polluted air. Evidence suggests that air pollution could also harm children before they are born (reduced birth weight) through their mothers' exposure. There is emerging evidence linking air pollution exposure to cancer, neurodevelopmental and metabolic diseases in children.
+As well as affecting our health, pollutants in the air are also causing long-term environmental damage by driving climate change, itself a major threat to health and well-being.
+Already in 2018, the UN Intergovernmental Panel on Climate Change warned that coal-fired electricity must end by 2050 if we are to limit global warming rises to 1.5 °C. If not, we may see a major climate crisis in just 20 years.
+Affordable strategies exist to reduce emissions from energy, transport, waste management, housing and industrial sectors. These interventions often carry other benefits like reduced traffic and noise, increased physical activity and better land use – all of which contribute to improving health and well-being. WHO also supports cities with the data, tools and capacity to select, implement and track clean and healthy policies at the city level. Better air quality will benefit all of us, everywhere.
+Multimedia
+She was breathing in illegal levels of pollution
+Second global conference on air pollution and health
+Training Video: Health Economic Assessment Tool (HEAT) for walking and cycling
+Clean air & energy for health webinar #6 - The research landscape of household air pollution, clean energy access, and health in Rwanda
+Reports
+Sustainable development goal indicator 3.9.1: mortality attributed to air pollution
+In 2019, air pollution – both ambient and household – was the largest environmental risk to
+health, carrying responsibility for about one...
+Clean household energy solutions toolkit (‎CHEST)‎: Household Multiple Emission Sources (HOMES) model
+The WHO Household Multiple Emission
+Sources (HOMES) model can help policymakers
+and program planners determine how
+household air pollution levels and...
+Compendium of WHO and other UN guidance in health and environment, 2024 update
+This is the 2024 update of the Compendium of WHO and other UN guidance on health and environment.
+The Compendium is a comprehensive collection of available...
+Policy Brief: Clean Household Energy Solutions Toolkit (CHEST)
+A systematic review of the evidence has 
+demonstrated the key role of clean household 
+energy in improving global health, reaffirming 
+the importance...
+News
+Health community calls for urgent action for clean air ahead of WHO conference
+Taking local climate action for global health impacts
+WHO announces the 2024 updated Compendium of interventions on environmental health
+Health consequences of air pollution on populations
+Initiatives
+
+--- Content from https://www.who.int/health-topics/air-pollution ---
+Air pollution
+Air pollution is contamination of the indoor or outdoor environment by any chemical, physical or biological agent that modifies the natural characteristics of the atmosphere.
+Household combustion devices, motor vehicles, industrial facilities and forest fires are common sources of air pollution. Pollutants of major public health concern include particulate matter, carbon monoxide, ozone, nitrogen dioxide and sulfur dioxide. Outdoor and indoor air pollution cause respiratory and other diseases and are important sources of morbidity and mortality.
+WHO data show that almost all of the global population (99%) breathe air that exceedsWHO guideline limitsand contains high levels ofpollutants, with low- and middle-income countries suffering from the highest exposures.
+Air quality is closely linked to the earth’s climate and ecosystems globally. Many of the drivers of air pollution (i.e. combustion of fossil fuels) are also sources of greenhouse gas emissions. Policies to reduce air pollution, therefore, offer a win-win strategy for both climate and health, lowering the burden of disease attributable to air pollution, as well as contributing to the near- and long-term mitigation of climate change.
+From smog hanging over cities to smoke inside the home, air pollution poses a majorthreat to healthand climate.
+Ambient (outdoor) air pollution in both cities and rural areas is causing fine particulate matter which result in strokes, heart diseases, lung cancer, acute and chronic respiratory diseases.
+Additionally, around 2.4 billion people are exposed to dangerous levels of household air pollution, while using polluting open fires or simple stoves for cooking fuelled by kerosene, biomass (wood, animal dung and crop waste) and coal.
+The combined effects of ambient air pollution and household air pollution is associated with 7 million premature deaths annually.
+Sources of air pollution are multiple and context specific. The major outdoor pollution sources include residential energy for cooking and heating, vehicles, power generation, agriculture/waste incineration, and industry. Policies and investments that support sustainable land use, cleaner household energy and transport, energy-efficient housing, power generation, industry, and better municipal waste management can effectively reduce key sources of ambient air pollution.
+WHO promotes interventions and initiatives for healthy sectoral policies (including energy, transport, housing, urban development and electrification of health-care facilities), addressing key risks to health from air pollution indoors and outdoors, and contributing to achieving health co-benefits from climate change mitigation policies.
+WHO provides technical support to WHO’s Member States in the development of normative guidance, tools and provision of authoritative advice on health issues related to air pollution and its sources.
+WHO monitors and reports on global trends and changes in health outcomes associated with actions taken to address air pollution at the national, regional and global levels.
+WHO has also developed and implemented a strategy for raising awareness on the risk of air pollution, as well as available solutions that can be implemented to mitigate the risks of exposure to air pollution. Through digital outreach and partnerships, WHO has helped enrich the value proposition of addressing air pollution for health and environment ministries, city governments and other stakeholders from sectors with significant emissions.
+News
+Health community calls for urgent action for clean air ahead of WHO conference
+Taking local climate action for global health impacts
+WHO announces the 2024 updated Compendium of interventions on environmental health
+Health consequences of air pollution on populations
+Latest publications
+Sustainable development goal indicator 3.9.1: mortality attributed to air pollution
+In 2019, air pollution – both ambient and household – was the largest environmental risk to
+health, carrying responsibility for about one...
+Clean household energy solutions toolkit (‎CHEST)‎: Household Multiple Emission Sources (HOMES) model
+The WHO Household Multiple Emission
+Sources (HOMES) model can help policymakers
+and program planners determine how
+household air pollution levels and...
+Compendium of WHO and other UN guidance in health and environment, 2024 update
+This is the 2024 update of the Compendium of WHO and other UN guidance on health and environment.
+The Compendium is a comprehensive collection of available...
+Policy Brief: Clean Household Energy Solutions Toolkit (CHEST)
+A systematic review of the evidence has 
+demonstrated the key role of clean household 
+energy in improving global health, reaffirming 
+the importance...
+Documents
+Health economic assessment tool (‎HEAT)‎ for walking and for cycling. Methods and user guide on physical...
+The promotion of cycling and walking for everyday physical activity not only promotes health but also has important positive effects on societies and the...
+Concept Note: Second global conference on air pollution and health
+The Global conference on air pollution and health: Accelerating action for clean air, clean energy access and climate change mitigation will highlight...
+Tracking SDG7: The Energy Progress Report 2024 - Executive Summary
+SDG 7 is to ensure access to affordable, reliable, sustainable and modern energy. The goal includes reaching universal access to electricity and clean...
+Tracking SDG7: The Energy Progress Report 2024
+SDG 7 is to ensure access to affordable, reliable, sustainable and modern energy. The goal includes reaching universal access to electricity and clean...
+Our work
+Accelerating access to electricity in health-care facilities
+Estimating the morbidity from air pollution and its economic costs
+Identifying solutions for countries
+Synthesizing evidence and knowledge on air pollution
+Feature stories
+Air pollution: The invisible health threat
+Launch of WHO's Household Energy Policy Repository
+What are the WHO Air quality guidelines?
+Transitioning to cleaner cooking
+Infographics
+Save the Date: Global Conference on Air Pollution and Health
+Household Air Pollution: Clean Cooking
+Air pollution kills 13 people every minute
+SDG7 2023: Access to Clean Cooking 2
+Videos
+She was breathing in illegal levels of pollution
+Second global conference on air pollution and health
+Clean air & energy for health webinar #6 - The research landscape of household air pollution, clean energy access, and health in Rwanda
+Training Video: Health Economic Assessment Tool (HEAT) for walking and cycling
+Podcasts
+Episode #66 - Air pollution, a public health emergency
+Why does WHO consider air pollution a public health emergency? If you live in highly polluted areas does COVID-19 affect you differently? WHO’s Dr Maria Neira explains in Science in 5.
+Episode #56 - Air pollution & COVID-19
+What have we learned about air pollution and COVID-19? Learn about six air pollutants that are harming your health. Dr Maria Neira explains findings from WHO’s new air quality guidelines in Science in 5.
+Events
+Conference "Particle Pathways": Exploring the nexus of indoor air pollution and airborne diseases
+Second Global Conference on Air Pollution and Health
+Towards a Healthier Future: Bridging Air Pollution, Climate Change, Energy, and Health
+Spotlight
+Related health topics
+Climate change
+Noncommunicable diseases
+
+--- Content from https://www.niehs.nih.gov/health/topics/agents/air-pollution ---
+An official website of the United States government
+The .gov means it’s official.Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+The site is secure.Thehttps://ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+National Institute of Environmental Health Sciences
+NIEHS main menu
+Health & Education
+If you are giving a presentation about an environmental health topic or just looking for general information about environmental health research or the institute, this webpage will help.
+A resource for kids, parents, and teachers to find fun and educational materials related to health, science, and the environment we live in today.
+Research
+Funding Opportunities
+Careers & Training
+NIEHS has a goal to ensure job opportunities and career enhancements programs for both our work force and our community.
+News & Events
+NIEHS sponsors and co-sponsors scientific meetings, conferences, and events throughout the year. These meetings are listed in the NIEHS Events Calendar and are open to the general public.
+Webcasts
+There are no webcasts currently scheduled.
+Download or play NIEHS Health Chat's with a wide range of experts and topics.
+About NIEHS
+Your Environment. Your Health.
+Air Pollution and Your Health
+Introduction
+Air Pollution
+Air pollution is a familiar environmental health hazard. We know what we’re looking at when brown haze settles over a city, exhaust billows across a busy highway, or a plume rises from a smokestack. Some air pollution is not seen, but its pungent smell alerts you.
+It is a major threat to global health and prosperity. Air pollution, in all forms, is responsible for more than6.5 million deaths each year globally, a number that has increased over the past two decades.
+What Is Air Pollution?
+Air pollution is a mix of hazardous substances from both human-made and natural sources.
+Vehicle emissions, fuel oils and natural gas to heat homes, by-products of manufacturing and power generation, particularly coal-fueled power plants, and fumes from chemical production are the primary sources of human-made air pollution.
+Nature releases hazardous substances into the air, such as smoke from wildfires, which are often caused by people; ash and gases from volcanic eruptions; and gases, like methane, which are emitted from decomposing organic matter in soils.
+Traffic-Related Air Pollution(TRAP), a mixture of gasses and particles, has most of the elements of human-made air pollution: ground-level ozone, various forms of carbon, nitrogen oxides, sulfur oxides, volatile organic compounds, polycyclic aromatic hydrocarbons, and fine particulate matter.
+Ozone, an atmospheric gas, is often called smog when at ground level. It is created when pollutants emitted by cars, power plants, industrial boilers, refineries, and other sources chemically react in the presence of sunlight.
+Noxious gases, which include carbon dioxide, carbon monoxide, nitrogen oxides (NOx), and sulfur oxides (SOx), are components of motor vehicle emissions and byproducts of industrial processes.
+Particulate matter(PM) is composed of chemicals such as sulfates, nitrates, carbon, or mineral dusts. Vehicle and industrial emissions from fossil fuel combustion, cigarette smoke, and burning organic matter, such as wildfires, all contain PM.
+A subset of PM, fine particulate matter (PM 2.5) is 30 times thinner than a human hair. It can be inhaled deeply into lung tissue and contribute to serious health problems. PM 2.5 accounts formost health effectsdue to air pollution in the U.S.
+Volatile organic compounds(VOC) vaporize at or near room temperature—hence, the designation volatile. They are called organic because they contain carbon. VOCs are given off by paints, cleaning supplies, pesticides, some furnishings, and even craft materials like glue. Gasoline and natural gas are major sources of VOCs, which are released during combustion.
+Polycyclic aromatic hydrocarbons(PAH) are organic compounds containing carbon and hydrogen. Of more than 100 PAHs known to be widespread in the environment, 15 are listed in theReport on Carcinogens. In addition to combustion, many industrial processes, such as iron, steel, and rubber product manufacturing, as well as power generation, also produce PAHs as a by-product. PAHs are also found in particulate matter.
+Air Pollution and Climate Change
+Air pollution and climate change affect each other through complex interactions in the atmosphere. Air pollution is intricately linked with climate change because both problems come largely from the same sources, such as emissions from burning fossil fuels. Both are threats to people’s health and the environment worldwide. Read more:Health Impacts of Air Quality.
+What is NIEHS Doing?
+Over its 50-plus year history, NIEHS has been a leader in air pollution research. The institute continues to fund and conduct research into how air pollution affects health and the population groups who are most affected.
+How does air pollution affect our health?
+When the National Ambient Air Quality Standards were established in 1970, air pollution was regarded primarily as a threat to respiratory health. In 1993, NIEHS researchers published the landmarkSix Cities Study, which established an association between fine particulate matter and mortality.
+Air pollution exposure is associated with oxidative stress and inflammation in human cells, which may lay a foundation for chronic diseases and cancer. In 2013, the International Agency for Research on Cancer of the World Health Organization (WHO) classified air pollution as a humancarcinogen.
+Many studies have established thatshort-term exposure to higher levels of outdoor air pollutionis associated with reduced lung function, asthma, cardiac problems, emergency department visits, andhospital admissions. Mortality rates related to air pollution are also a concern. Exposure to the air pollutant PM2.5 is associated with anincreased risk of death.
+A team of researchers, partially funded by NIEHS, found thatdeaths decreasedafter air pollution regulations were implemented and coal-powered plants were retired. The study data covered 21 years. More specifically, they found exposure to PM2.5 from coal was associated with a mortality risk that was twice as high as the risk from exposure to PM2.5 from all sources. PM2.5 from coal is high in sulfur dioxide, black carbon, and metals.
+Public health concerns related to high air pollution exposures include cancer, cardiovascular disease, respiratory diseases, diabetes mellitus, obesity, and reproductive, neurological, and immune system disorders.
+Research on air pollution and health effects continually advances.
+Cancer
+Cardiovascular Disease
+Respiratory Disease
+Looking for Clinical Studies?
+Visit theJoin anNIEHS StudyWebsite
+The goal of theNatural History of Asthma with Longitudinal Environmental Sampling (NHALES)study is to help scientists understand how bacteria and other factors in the environment affect people who have moderate to severe asthma.
+Who can participate?
+NHALES: Asthma Study
+Tel 855-MYNIEHS (855-696-4347)[email protected]
+Whom does air pollution affect the most?
+Air pollution affects everyone’s health, but certain groups may be harmed more. Almost9 out of 10 people who live in urban areas worldwideare affected by air pollution.
+NIEHS-funded research indicates there are racial or ethnic and socioeconomic disparities in air pollution emissions. Air pollution emissions have decreased over past decades but thechanges vary by demographics. This research found that people with annual incomes above $70,000 generally experience greater declines in industry, energy, transportation, residential, and commercial-related emissions than do people with lower incomes.
+Children
+The NIEHS-fundedChildren’s Health Studyat the University of Southern California is one of the largest studies of the long-term effects of air pollution on children’s respiratory health. Among its findings:
+Other studies on women and children
+Older adults
+Rural dwellers
+NIEHS and community involvement
+NIEHS supports community participation in the research process and encourages collaborative approaches that build capacity in communities to address environmental health concerns. Community-engaged research and citizen science are two types of collaborative research approaches.
+For example, NIEHS grant recipients developedcommunity-level tacticsand public policies for reducing exposure to TRAP:
+Why improving air quality matters
+Further Reading
+Stories from theEnvironmental Factor(NIEHS Newsletter)
+Printable Fact Sheets
+Fact Sheets
+Air Pollution and Your Health
+Breast Cancer: Why the Environment Matters
+Climate Change and Human Health
+Lung Health and Your Environment
+Microbiome
+Podcasts
+Additional Resources
+Related Health Topics
+This content is available to use on your website.
+National Institute ofEnvironmental Health Sciences
+Follow Us
+Contact Information
+Policies & Services
+NIEHS Staff
+Related Sites
+Other Languages
+
+
+
+
+================================================================================
+
